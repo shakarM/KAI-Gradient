@@ -730,7 +730,7 @@ function compose(ctx, w, h, t) {
     const yt = m + lh / 2, yb = h - m - lh / 2;
     ctx.textAlign = 'right';   // text on the right
     if (S.hdr) { logo(yt); ctx.fillText(S.hl, w - m, yt); }
-    if (S.ftr) { logo(yb); ctx.fillText(S.fl, w - m, yb); }
+    if (S.ftr) { ctx.fillText(S.fl, w - m, yb); ctx.textAlign = 'left'; ctx.fillText('www.kai.krd', m, yb); }
   }
   if (S.hon && S.htxt.trim()) {
     const words = S.htxt.toUpperCase(); let fs = Math.round(short * .12);

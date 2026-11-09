@@ -20,7 +20,7 @@ Private repositories need a paid GitHub plan to use Pages. On a free plan, use a
 3. **Direction:** drag the dial, type a value from 0° to 359°, or use the 0°/90°/180°/270° buttons. With the dial focused, the arrow keys change it by 1° (hold Shift for 15°).
 4. **Fine-tune:** grain and softness sliders, Still or Motion, and four shuffle buttons (colours, shape, style, everything).
 5. **Format:** 12 sizes, from social posts to A4, A3, posters, roll-ups and billboards.
-6. **Brand layer:** centre logo (logomark or full lockup), header and footer (each optional, logo on the left and text on the right), optional headline, black or white ink.
+6. **Brand layer:** centre logo (logomark or full lockup), header (logo left, text right) and footer (www.kai.krd left, text right), each optional, optional headline, black or white ink.
 7. **Export:** PNG, or PDF. Print sizes export as PDFs at real paper size.
 
 Favourites are saved in the browser on that computer only.
